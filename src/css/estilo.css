@@ -1,0 +1,15 @@
+.filtro1{
+    filter: grayscale();
+    align-items: right;
+}
+
+.div1{
+    color:white;
+    background-color:grey;
+    width: 50%;
+    text-align: left;
+    }
+.nav{
+    width: 50%;
+    text-align: center;
+}
