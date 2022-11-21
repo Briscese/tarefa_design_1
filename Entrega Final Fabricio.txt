@@ -1,0 +1,2 @@
+Respositorio: https://github.com/Briscese/tarefa_design_1
+Heroku: https://tarefadesignweb-fatec.herokuapp.com/
