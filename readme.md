@@ -17,7 +17,7 @@ Assim ele irá clonar a pasta do github e criar um repositorio em sua maquina.
 
 Em seguida digite: cd .\tarefa_design_1\
 
-Depois disse vamos criar uma maquina virtual digitando no terminal: python -m venv venv
+Depois disso vamos criar uma maquina virtual digitando no terminal: python -m venv venv
 Assim que criar maquina virtual digite: cd venv
 
 Em seguida digite: cd .\Scripts\
